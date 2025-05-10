@@ -1,0 +1,11 @@
+
+scikit-learn
+pandas
+matplotlib
+seaborn
+joblib
+mlflow
+fastapi
+uvicorn
+pyngrok
+optuna
